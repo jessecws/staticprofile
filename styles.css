@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e8e5da;
+}
+
+header {
+  margin: 0;
+  text-align: center;
+  background-color: #97516B;
+  padding: 20px
+}
+
+header h1 {
+  text-align: center;
+  color: #7CC9B7;
+  font-family: 'Permanent Marker', serif;
+  font-size: 68px;
+  text-transform: uppercase;
+  margin: 0px 10px;
+}
+
+header h2 {
+  text-align: center;
+  color: #7CC9B7;
+  font-family: 'Righteous', serif;
+  font-size: 34px;
+  text-transform: uppercase;
+  margin: 0px 0px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.map {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 20px;
+}
+
+main {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+}
+
+section h2 {
+  font-size: 28px;
+}
+
+section p {
+  font-size: 20px;
+}
+
+section li {
+  font-size: 20px;
+}
+
+section a {
+  font-size: 20px;
+}
+
+footer {
+  margin: 0;
+  text-align: center;
+  background-color: #97516B;
+  padding: 20px
+}
+
+footer h2 {
+  text-align: center;
+  color: #fff;
+  font-family: 'Righteous', serif;
+  font-size: 34px;
+  text-transform: uppercase;
+  margin-top: 0px;
+}
+
+.round {
+  border-radius: 10px;
+}
+
+hr {
+  border: 0; 
+  height: 3px; 
+  background-image: linear-gradient(to right, #B1505F, #00b9ff, #59d941, #B1505F);
+}
